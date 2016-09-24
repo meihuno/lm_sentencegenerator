@@ -1,0 +1,11 @@
+nlp/sample/sentencegenerator/MorphologicalAnalyzerTest.class
+nlp/sample/sentencegenerator/FindFileTest.class
+nlp/sample/sentencegenerator/BackOffSmoothingTest.class
+nlp/sample/sentencegenerator/NGramTest.class
+nlp/sample/sentencegenerator/SentenceGeneratorTest.class
+nlp/sample/sentencegenerator/TrialTest.class
+nlp/sample/sentencegenerator/SGLaplaseSmoothingTest.class
+nlp/sample/sentencegenerator/AllTests.class
+nlp/sample/sentencegenerator/WordSequenceProbTest.class
+nlp/sample/sentencegenerator/MapUtilTest.class
+nlp/sample/sentencegenerator/DataContainerTest.class
