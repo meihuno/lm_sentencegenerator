@@ -20,7 +20,7 @@ public class NGram {
 	 * @param sensenArray は単語列を格納したArrayListを格納したArrayList
 	 * @param smoothingにはスムージングのタイプをセットする。
 	 * */
-	NGram(ArrayList<ArrayList<String>> sensenArray, String smoothing) {
+	public NGram(ArrayList<ArrayList<String>> sensenArray, String smoothing) {
 		smoothingType = smoothing;	
 		setProb(sensenArray);
 	}

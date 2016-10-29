@@ -16,7 +16,7 @@ public class SentenceGenerator {
 	 * コンストラクタ
 	 * @param NGramのモデルを受け取る。
 	 * */
-	SentenceGenerator(NGram ngmodel) {
+	public SentenceGenerator(NGram ngmodel) {
 		langmodel = ngmodel;
 	}
 	
