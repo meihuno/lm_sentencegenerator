@@ -13,7 +13,7 @@ public class SentenceGenerator {
 	private NGram langmodel;
 	
 	/**
-	 * コンストラクタ
+	 * コンストラクタ。public。
 	 * @param NGramのモデルを受け取る。
 	 * */
 	public SentenceGenerator(NGram ngmodel) {
